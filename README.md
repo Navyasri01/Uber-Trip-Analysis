@@ -60,6 +60,5 @@ This tab offers:
 - A grid view of trip records
 - Fields like trip ID, date, vehicle, payment type, distance, value, location
 - Drill-through functionality to get detailed data per selection
-- Bookmark toggle for full vs filtered data
 
 ![image](https://github.com/user-attachments/assets/eb323a53-fba1-4c1e-a0ac-791c903c6f91)
