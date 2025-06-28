@@ -43,9 +43,23 @@ This tab includes:
 - Longest trip analysis
 
 
-
 ![image](https://github.com/user-attachments/assets/abeeb588-460e-41f8-8617-337af9e2c976)
 
+## ⏰ Dashboard 2: **Time Analysis**
+
+Focus on trip patterns across:
+- Pickup Time (10-min intervals) using area charts
+- Weekdays vs weekends using line charts
+- Heatmap showing trip demand by hour and day
+
 ![image](https://github.com/user-attachments/assets/db0bde50-b265-4cde-a35b-717a7402b7a6)
+
+## 📋 Dashboard 3: **Details Tab**
+
+This tab offers:
+- A grid view of trip records
+- Fields like trip ID, date, vehicle, payment type, distance, value, location
+- Drill-through functionality to get detailed data per selection
+- Bookmark toggle for full vs filtered data
 
 ![image](https://github.com/user-attachments/assets/eb323a53-fba1-4c1e-a0ac-791c903c6f91)
