@@ -43,7 +43,8 @@ This tab includes:
 - Longest trip analysis
 
 
-![image](https://github.com/user-attachments/assets/abeeb588-460e-41f8-8617-337af9e2c976)
+<img width="1025" height="486" alt="image" src="https://github.com/user-attachments/assets/97f8b353-114e-4a08-94d0-fefb18205c4b" />
+
 
 ## ⏰ Dashboard 2: **Time Analysis**
 
